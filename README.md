@@ -17,13 +17,13 @@ This project is an interactive Power BI Sales Dashboard built using the Supersto
 - Category & Sub-Category Analysis
 - Interactive Filters (Slicers)
 
-## 📷 Dashboard Preview
+### 📷 Dashboard Preview
+![Dashboard](superstore-dashboard.png)
 
-![Dashboard](superstore-dashboard.png.png)
+### 📁 Files Included
+* [PowerBI-Sales-Dashboard.pbix](PowerBI-Sales-Dashboard.pbix) - Power BI Dashboard File
+* [superstore-dashboard.png](superstore-dashboard.png) - Dashboard Screenshot
 
-## 📁 Files Included
-- `2.pbix` – Power BI Dashboard File
-- `superstore-dashboard.png.png` – Dashboard Screenshot
 
 ## 🚀 Author
 **Aishwary Chavan**# PowerBI-Sales-Dashboard
