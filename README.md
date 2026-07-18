@@ -23,7 +23,7 @@ This project is an interactive Power BI Sales Dashboard built using the Supersto
 ### 📁 Files Included
 * [PowerBI-Sales-Dashboard.pbix](PowerBI-Sales-Dashboard.pbix) - Power BI Dashboard File
 * [superstore-dashboard.png](superstore-dashboard.png) - Dashboard Screenshot
-*
+
 
 ## 🚀 Author
 **Aishwary Chavan**# PowerBI-Sales-Dashboard
